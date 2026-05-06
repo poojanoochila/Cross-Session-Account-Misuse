@@ -1,5 +1,5 @@
 # 🚨 Cross-Session Account Misuse Investigation
-##(Shared Lab Environment)
+## (Shared Lab Environment)
 
 ---
 
