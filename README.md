@@ -1,3 +1,5 @@
+# 🚨 Cross-Session Account Misuse Investigation (Shared Lab Environment)
+
 ## 📌 Executive Summary
 
 This case study documents an incident involving unauthorized account usage caused by session persistence on a shared college laboratory system. A student unknowingly accessed another user's ChatGPT account due to an active session left open on a shared machine.
