@@ -102,7 +102,7 @@ The investigation focused on identifying the source system and attributing the a
 * Session persistence can lead to unauthorized access without credential compromise
 * Behavioral indicators are valuable for attribution when logs are unavailable
 * Physical verification can be critical in endpoint investigations
-* Multi-day observation improves accuracy of incident validation
+* Multi-day observation improves the accuracy of incident validation
 
 ---
 
@@ -113,45 +113,6 @@ The investigation focused on identifying the source system and attributing the a
 * Endpoint Investigation
 * Root Cause Analysis
 * Real-time Monitoring
-
----
-
-## 📁 Suggested Repository Structure
-
-```
-chatgpt-session-misuse-investigation/
-│
-├── README.md
-├── incident_report.md
-├── timeline.md
-├── iocs.md
-├── remediation.md
-└── lessons_learned.md
-```
-
----
-
-## 📄 Additional Files Content
-
-### 📌 incident_report.md
-
-Detailed narrative of the incident including discovery, investigation, and resolution.
-
-### 📌 timeline.md
-
-Expanded timeline with precise observations and actions taken.
-
-### 📌 iocs.md
-
-List of behavioral indicators and suspicious patterns observed.
-
-### 📌 remediation.md
-
-Step-by-step actions taken to resolve and secure the account.
-
-### 📌 lessons_learned.md
-
-Key takeaways and security improvements for future prevention.
 
 ---
 
