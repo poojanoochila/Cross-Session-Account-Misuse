@@ -35,8 +35,8 @@ The investigation focused on identifying the source system and attributing the a
 
 ## 🔍 Indicators of Compromise (IoCs)
 
-* Unknown chat messages appearing in account
-* Repeated usage patterns not matching account owner
+* Unknown chat messages appearing in the account
+* Repeated usage patterns not matching the account owner
 * Presence of consistent naming convention (e.g., "program 12")
 
 ---
@@ -70,17 +70,17 @@ The investigation focused on identifying the source system and attributing the a
 
 ## 🧬 Root Cause Analysis
 
-* User failed to log out from ChatGPT on shared system
+* User failed to log out from ChatGPT on the shared system
 * Browser session remained active (persistent cookies/session token)
 * Subsequent user accessed the same system
-* ChatGPT reused existing authenticated session
+* ChatGPT reused the existing authenticated session
 
 ---
 
 ## ⚠️ Impact Assessment
 
 * Exposure of private conversations
-* Unauthorized usage of account
+* Unauthorized usage of the account
 * Potential academic or personal data leakage
 
 ---
@@ -95,7 +95,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ## 🔐 Preventive Measures
 
-* Always log out from shared systems
+* Always log out of shared systems
 * Use private/incognito browsing in public environments
 * Enable multi-factor authentication (MFA)
 * Avoid saving sessions on shared devices
@@ -123,7 +123,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ## 📣 Conclusion
 
-This case highlights how simple operational oversights, such as failing to log out from shared systems, can lead to security incidents. The investigation demonstrates practical SOC skills including observation, hypothesis testing, and behavioral attribution without reliance on advanced tooling.
+This case highlights how simple operational oversights, such as failing to log out from shared systems, can lead to security incidents. The investigation demonstrates practical SOC skills, including observation, hypothesis testing, and behavioral attribution without reliance on advanced tooling.
 
 ---
 
