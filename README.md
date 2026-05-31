@@ -11,7 +11,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🧠 Incident Overview
+##  Incident Overview
 
 * **Incident Type:** Session Persistence / Unauthorized Account Usage
 * **Environment:** Shared College Computer Lab
