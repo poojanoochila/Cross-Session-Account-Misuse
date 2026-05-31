@@ -85,7 +85,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🛠️ Remediation Actions
+##  Remediation Actions
 
 * Logged out from all active sessions
 * Cleared browser cookies and cache
