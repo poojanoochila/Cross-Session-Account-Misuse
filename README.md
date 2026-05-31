@@ -93,7 +93,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🔐 Preventive Measures
+##  Preventive Measures
 
 * Always log out of shared systems
 * Use private/incognito browsing in public environments
