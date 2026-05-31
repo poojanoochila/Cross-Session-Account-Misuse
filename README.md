@@ -41,7 +41,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🧪 Investigation Methodology
+##  Investigation Methodology
 
 ### 1. Monitoring & Validation
 
