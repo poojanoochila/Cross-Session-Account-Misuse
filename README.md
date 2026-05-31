@@ -33,7 +33,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🔍 Indicators of Compromise (IoCs)
+##  Indicators of Compromise (IoCs)
 
 * Unknown chat messages appearing in the account
 * Repeated usage patterns not matching the account owner
