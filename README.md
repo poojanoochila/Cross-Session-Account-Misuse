@@ -20,7 +20,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## ⏱️ Timeline of Events
+##  Timeline of Events
 
 | Timeframe | Event                                                        |
 | --------- | ------------------------------------------------------------ |
