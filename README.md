@@ -68,7 +68,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## 🧬 Root Cause Analysis
+##  Root Cause Analysis
 
 * User failed to log out from ChatGPT on the shared system
 * Browser session remained active (persistent cookies/session token)
