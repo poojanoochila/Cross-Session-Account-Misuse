@@ -77,7 +77,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ---
 
-## ⚠️ Impact Assessment
+##  Impact Assessment
 
 * Exposure of private conversations
 * Unauthorized usage of the account
