@@ -127,6 +127,4 @@ This case highlights how simple operational oversights, such as failing to log o
 
 ---
 
-**Author:** Pooja Noochila
-**Role:** Aspiring SOC Analyst
-**Focus Area:** Endpoint Security & Incident Response
+
