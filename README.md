@@ -5,7 +5,7 @@
 
 ##  Executive Summary
 
-This case study documents an incident involving unauthorized account usage caused by session persistence on a shared college laboratory system. A student unknowingly accessed another user's ChatGPT account due to an active session left open on a shared machine.
+This case study documents an incident of unauthorized account use resulting from session persistence on a shared college laboratory system. A student unknowingly accessed another user's ChatGPT account due to an active session left open on a shared machine.
 
 The investigation focused on identifying the source system and attributing the activity to a specific user using behavioral analysis and indirect indicators.
 
