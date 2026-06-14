@@ -50,7 +50,7 @@ The investigation focused on identifying the source system and attributing the a
 
 ### 2. Live Environment Analysis
 
-* Physically accessed lab during active session usage
+* Physically accessed the lab during active session usage
 * Correlated real-time activity with account behavior
 
 ### 3. Attribution Attempts
