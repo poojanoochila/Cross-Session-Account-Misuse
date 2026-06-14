@@ -127,4 +127,3 @@ This case highlights how simple operational oversights, such as failing to log o
 
 ---
 
-
