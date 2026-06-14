@@ -126,4 +126,3 @@ The investigation focused on identifying the source system and attributing the a
 This case highlights how simple operational oversights, such as failing to log out from shared systems, can lead to security incidents. The investigation demonstrates practical SOC skills, including observation, hypothesis testing, and behavioral attribution without reliance on advanced tooling.
 
 ---
-
